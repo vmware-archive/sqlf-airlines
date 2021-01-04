@@ -1,4 +1,4 @@
-sqlf-airlines
+<h1> VMware has ended active development of this project, this repository will no longer be updated.</h1><br>sqlf-airlines
 =============
 
 Small version of a grails app accessing the flights schema from GemXD tutorial on pivhdsne. 
